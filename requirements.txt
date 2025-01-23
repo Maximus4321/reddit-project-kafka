@@ -1,0 +1,6 @@
+kafka-python
+praw
+scikit-learn
+joblib
+matplotlib
+pandas
