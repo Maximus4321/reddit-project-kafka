@@ -1,4 +1,4 @@
-Sentiment Analysis Pipeline with Kafka
+Sentiment Analysis Pipeline with Kafka By Maxime APPERT For Data Stream processing at the IPP
 
 This repository contains a real-time sentiment analysis pipeline that processes Reddit posts, performs sentiment classification using a machine learning model, visualizes the results, and incorporates user feedback to improve the model.
 
