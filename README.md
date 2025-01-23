@@ -5,8 +5,10 @@ This repository contains a real-time sentiment analysis pipeline that processes 
 Setup Instructions
 1. Clone the Repository
 
+```console
 git clone https://github.com/your-username/sentiment-analysis-kafka.git
 cd sentiment-analysis-kafka
+```
 
 2. Sign Up for a Reddit Developer Account
 
